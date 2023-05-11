@@ -1,0 +1,22 @@
+mqavnusmml37kizj4pkjgdv34wklbeldnrgkubyj4arvg5bjb4ba
+
+
+token
+
+
+C:\Users\krish\.jdks\openjdk-20.0.1\bin
+
+
+C:\Users\krish\Downloads\apache-maven-3.9.1-bin
+
+
+C:\Users\krish\OneDrive\Documents\apache-maven-3.9.1\bin
+
+
+C:\Users\krish\.jdks\corretto-16.0.2
+
+
+C:\Users\krish\source\repos
+
+
+service connection XXE8Q~e5FhUPBoo7x6VQNl.5RzlN_uyx1YjcMabm
